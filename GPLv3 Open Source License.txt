@@ -1,0 +1,1 @@
+Simple Console is published under the GPLv3 open source licence

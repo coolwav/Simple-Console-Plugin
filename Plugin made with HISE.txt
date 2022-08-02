@@ -1,0 +1,5 @@
+HISE is published under the GPLv3 open source licence
+
+
+http://hise.audio/
+
